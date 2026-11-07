@@ -1,2 +1,42 @@
-/target
+# --- Rust / Cargo ---
+# Ignora la carpeta de compilación en la raíz y en cualquier subcarpeta (Workspaces)
+/target/
+**/target/
+
+# Archivos de caché del compilador
+**/*.rs.bk
+Cargo.lock
+
+# --- Variables de Entorno y Configuración Sensible ---
 .env
+*.env
+.env.*
+!.env.example
+
+# --- IDEs y Editores ---
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# JetBrains (IntelliJ, RustRover, CLion)
+.idea/
+*.iml
+
+# Vim / Emacs / Nano
+*~
+*.swp
+*.swo
+
+# --- Sistema Operativo ---
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
