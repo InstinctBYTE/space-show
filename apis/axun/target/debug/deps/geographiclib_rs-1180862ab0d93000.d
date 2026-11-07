@@ -1,0 +1,10 @@
+/home/ga/practices/space-show/apis/axun/target/debug/deps/geographiclib_rs-1180862ab0d93000.d: /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/lib.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_capability.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_line.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geomath.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/polygon_area.rs
+
+/home/ga/practices/space-show/apis/axun/target/debug/deps/libgeographiclib_rs-1180862ab0d93000.rmeta: /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/lib.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_capability.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_line.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geomath.rs /home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/polygon_area.rs
+
+/home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/lib.rs:
+/home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic.rs:
+/home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_capability.rs:
+/home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_line.rs:
+/home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geomath.rs:
+/home/ga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/polygon_area.rs:

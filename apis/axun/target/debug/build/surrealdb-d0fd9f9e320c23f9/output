@@ -1,0 +1,6 @@
+cargo::rerun-if-changed=build.rs
+cargo::rustc-check-cfg=cfg(browser)
+cargo::rustc-check-cfg=cfg(ws_engine)
+cargo::rustc-check-cfg=cfg(http_engine)
+cargo::rustc-check-cfg=cfg(storage)
+cargo:rustc-cfg=ws_engine
