@@ -1,1 +1,0 @@
-/home/ga/practices/space-show/apis/axun/target/debug/axun: /home/ga/practices/space-show/apis/axun/src/main.rs /home/ga/practices/space-show/apis/axun/src/routes/apis.rs /home/ga/practices/space-show/apis/axun/src/routes/roads.rs /home/ga/practices/space-show/apis/axun/src/routes.rs
