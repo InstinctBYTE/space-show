@@ -1,7 +1,8 @@
 [workspace]
 resolver = "3"
-members= ["apis/axun","core/models","ml/machine_learning","shared/shareds"]
+members= ["apis/axun","core/models","ml/machine_learning","shared/shareds","web/ui"]
 
 [workspace.dependencies]
 
 models = {path ="./core/models"}
+shareds = {path="./shared/shareds"}

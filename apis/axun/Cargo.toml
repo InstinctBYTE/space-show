@@ -13,6 +13,8 @@ tokio = { version = "1.54.1", features = ["full", "macros", "rt-multi-thread"] }
 tower-http = { version = "0.7.1", features = ["cors", "fs", "set-header", "trace"] }
 
 models.workspace = true
+shareds.workspace=true
+
 
 [profile.release]
 opt-level = 3
