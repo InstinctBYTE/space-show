@@ -1,8 +1,8 @@
 use dioxus::prelude::*;
-use shareds::{LoginResponse,LoginRequest};
+use shareds::{LoginRequest, LoginResponse};
 mod views;
 use crate::views::login::LoginView;
 
-fn main(){
-  dioxus::launch(login)
+fn main() {
+    dioxus::launch(LoginView);
 }
