@@ -9,6 +9,6 @@ pub fn app() -> Router {
     Router::new()
   .route("/api", get(hallo))
   .route("/api/login",post(login))
-  .layer(CorsLayer::permissive)
+  .layer(CorsLayer::permissive())
 }
 

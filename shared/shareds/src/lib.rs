@@ -3,7 +3,7 @@ use serde::{Serialize,Deserialize};
 #[derive(Serialize,Deserialize)]
 pub struct LoginRequest{
   pub name:String,
-  pass:String,
+  pub pass:String,
 }
 
 #[derive(Serialize,Deserialize)]
